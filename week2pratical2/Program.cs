@@ -13,6 +13,8 @@ static void Main()
             wordCount++;
 
         }
+
+
     }
     Console.WriteLine($"This the string , {str}");
     Console.WriteLine("Number of words: " + wordCount);
